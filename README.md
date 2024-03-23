@@ -1,7 +1,7 @@
 <h1 align="center">Buenas tet- digo tardes, soy ElFo2K 👋</h1>
 <h3 align="center">Un ser vivo mas.</h3>
 
-- 🔭 Actualmente trabajando en **Dama Roja**
+- 🔭 Actualmente trabajando en **mi**
 
 - 🌱 Aprendiendo ahora mismo **Rust**
 
