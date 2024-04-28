@@ -1,4 +1,4 @@
-<h1 align="center">Buenas tet- digo tardes, soy ElFo2K 👋</h1>
+<h1 align="center">Buenas tardes, soy ElFo2K 👋</h1>
 <h3 align="center">Un ser vivo mas.</h3>
 
 - 🔭 Actualmente trabajando en **mi**
@@ -7,9 +7,8 @@
 
 - ⚡ Visita mi pagina de [Esponsor!](https://esponsor.com/elfo2k)
 
-- ⚡ Mi Correo **elfo2k.pay@gmail.com**
+- ⚡ Mi Correo **elfo2k@outlook.es**
 
-- ⚡ Fun fact **Por alguna razón el color negro me cae mal..**
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
