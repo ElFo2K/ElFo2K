@@ -1,5 +1,8 @@
 <h1 align="center">Buenas tardes, soy ElFo2K 👋</h1>
-<h3 align="center">Un ser vivo mas.</h3>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ElFo2K&color=blue"/> 
+</p>
+
 
 - 🔭 Actualmente trabajando en **mi**
 
