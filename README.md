@@ -15,7 +15,7 @@
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://x.com/elfo2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="elfo2k" height="30" width="40" /></a>
+<a href="https://x.com/elfo2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elfo2k" height="30" width="40" /></a>
 </p>
 
 
